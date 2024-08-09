@@ -3,7 +3,7 @@
 <h3 align="center">An Aspiring Data Scientist from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1670/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apaulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="apaulgithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzlerrabhi&label=Profile%20views&color=0e75b6&style=flat" alt="dazzlerrabhi" /> </p>
 
 - 🌏 I’m based in **Bokaro Steel City, Jharkhand, India**
 
