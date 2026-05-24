@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
+/ ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ) /
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">An Aspiring Data Scientist from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1670/1*ZSVmWGcc1weENb0ShawWxw.gif">
